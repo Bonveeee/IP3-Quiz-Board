@@ -1,5 +1,5 @@
 ## project  name
-<h3>IP-3 QUIZ BOARD<h3>
+<h2>IP-3 QUIZ BOARD<h2>
 
 ## description of program
 <p>This is an IP3 project on creating a quiz board web app. <br>Its major objectives is to create a good user story with feedback mechanism to the user using JavaScript. Designed through figma to ease the workability.<p>
@@ -8,8 +8,10 @@
 
 ## link to FIGMA design
 <link href=" https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>
-
+<img ">
 ## link to the site on GitHub Pages
+
+## credits
 
 ## author-name
 <p>Bonaventure Ochieng</p>

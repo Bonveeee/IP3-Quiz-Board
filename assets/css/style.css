@@ -1,0 +1,38 @@
+* {
+    background-color: white;
+    margin: 5px;
+    font-family: 'josefin sans';
+}
+
+header {
+    justify-content: space-between;
+}
+
+.img{
+    display:flex;
+      width:135px;
+    height: 70px;
+}       
+
+header>div>h1{
+
+}
+.Container-Questions {
+    background-color: #C4C4C4;
+    width: 50%;
+    height: 50%;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.Question-number {
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+}
+
+.Options {
+    background-color: white;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+
+}
