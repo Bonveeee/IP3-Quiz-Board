@@ -1,27 +1,41 @@
-## project  name
+## Project  name
 <h2>IP-3 QUIZ BOARD<h2>
 
-## description of program
+## Description of program
 <p>This is an IP3 project on creating a quiz board web app. <br>Its major objectives is to create a good user story with feedback mechanism to the user using JavaScript. Designed through figma to ease the workability.<p>
 
-## program setup instructions
+## Program setup instructions
+Clone to thir repo: link>>
+## Requirements
+Access to  a computer or any mobile tech
+ Access to internet
 
-## link to FIGMA design
+
+## Features
+<p>As a user of the application,you will be able to:<p>
+access the page<br>
+Do the quiz<br>
+obtain result/feedback instant<br>
+retake the quiz if needed<br>
+
+## Technologies Used
+Html & Css
+Javascript
+Figma for Design
+
+## Link to FIGMA design
 <link href=" https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>
-<<<<<<< HEAD
-<img ">
-=======
-      
-     
 
->>>>>>> b74fb803128e83205876f3897032f10da36d4625
-## link to the site on GitHub Pages
+## Live link to the site on GitHub Pages
 
-## credits
+## Credits
+figma.com
+github.com
 
-## author-name
-<p>Bonaventure Ochieng</p>
-<p>email <br> <p>bonochieng@gmail.com<p>
+## Author
+twitter: @bonveeee
+<p>email:bonochieng@gmail.com<p>
 
-## copyright and license information
-<p> MIT LICENCE <p>
+## Copyright and license information
+ MIT LICENCE
+ This project is open for free of charge and open to any modification

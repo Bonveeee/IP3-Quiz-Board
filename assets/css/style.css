@@ -1,31 +1,36 @@
 * {
-    background-color: white;
+    background-color: hsl(300, 100%, 25%)0.3;
     margin: 5px;
     font-family: 'josefin sans';
-    
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://wallpaperaccess.com/full/1963222.jpg");
+    background-repeat: repeat;
+
 }
 
 header>div {
     justify-content: space-between;
     display: inline-flex;
     background-color: black;
-    
+
 }
-header{
+
+header {
     background-color: black;
-    width: 50%;
+    width: 800px;
     height: 50%;
+    max-width: 80%;
 }
+
 header>div>div>h1 {
     justify-items: right;
     color: white;
-    background-color: black;
-   }
-  
-.img {
-    display: flex;
-    width: 135px;
-    height: 70px;
     background-color: black;
 }
 
@@ -35,11 +40,11 @@ h2 {
 
 .Container-Questions {
     background-color: #C4C4C4;
-    width: 50%;
+    width: 800px;
     height: 50%;
+    max-width: 80%;
     align-items: center;
     margin-top: 10px;
-   
     border: 1px solid;
 }
 
@@ -102,10 +107,10 @@ h2 {
     transition: 0.5s;
 }
 
-div>.results{
+div>.results {
     background-color: #C4C4C4;
-    border:1px solid;
-    width: 60%;
-    height: 50%;
+    border: 1px solid;
+    width: 100%;
+    height: 60%;
 
 }

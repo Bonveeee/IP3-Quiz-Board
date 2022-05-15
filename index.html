@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Board</title>
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/Js/quizboard.js">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
@@ -16,10 +17,8 @@
     <main>
         <header>
             <div>
-                <div class="img"><img src="./assets/css/images/html-css.jpg">
-                </div>
                 <div class="h1">
-                    <h1>ANSWER THE MQS (1-10) BELOW</h1>
+                    <h1>HTML & CSS: ANSWER THE MQS (1-10) BELOW</h1>
                 </div>
             </div>
         </header>
@@ -30,15 +29,13 @@
             <div class="options-container">
                 <div class="Options"><input type="radio" name="1"> Programming language</div>
                 <div class="Options"><input type="radio" name="1"> OOP language</div>
-                <div class="Options"><input type="radio" name="1" id="correct 3"> Markup language </div>
+                <div class="Options"><input type="radio" name="1" id="correct 1"> Markup language </div>
                 <div class="Options"><input type="radio" name="1"> High level language </div>
             </div>
         </div>
-
         <div class="buttons">
-            <p><span id="nextbtn"><button id="button1">Next</button></span></p>
+            <button id="button1" onclick="Next1">Next</button></span></p>
             <br>
-            <p><button id="submitbtn">SUBMIT</button></p>
         </div>
 
         <div class="Container-Questions">
@@ -46,93 +43,104 @@
                 <h2>Question 2: The HTML tag that specifies a CSS style embedded in an element is called ?</h2>
             </div>
             <div class="options-container">
-                <div class="Options"><input type="radio" name="1"> Design</div>
-                <div class="Options"><input type="radio" name="1"> Define</div>
-                <div class="Options"><input type="radio" name="1"> Modify</div>
-                <div class="Options"><input type="radio" name="1" id="correct 4"> Style</div>
+                <div class="Options"><input type="radio" name="2"> Design</div>
+                <div class="Options"><input type="radio" name="2"> Define</div>
+                <div class="Options"><input type="radio" name="2"> Modify</div>
+                <div class="Options"><input type="radio" name="2" id="correct 2"> Style</div>
             </div>
         </div>
 
         <div class="buttons">
-            <p><button id="button1"> Previous</button><span id="nextbtn"><button id="button1">Next</button></span></p>
-            <br>
-            <p><button id="submitbtn">SUBMIT</button></p>
+            <p><button id="button1" onclick="Next1"> Previous</button><span id="nextbtn"><button id="button1"
+                        onclick="Next2">Next</button></span></p>
+
         </div>
         <div class="Container-Questions">
             <div class="Question-number">
                 <h2>Question 3: Which of the following tag is used to embed css in html page?</h2>
             </div>
             <div class="options-container">
-                <div class="Options"><input type="radio" name="1" id="correct 1">!DOCTYPE html</div>
-                <div class="Options"><input type="radio" name="1"> css</div>
-                <div class="Options"><input type="radio" name="1"> style</div>
-                <div class="Options"><input type="radio" name="1"> script </div>
+                <div class="Options"><input type="radio" name="3" id="correct 3">!DOCTYPE html</div>
+                <div class="Options"><input type="radio" name="3"> css</div>
+                <div class="Options"><input type="radio" name="3"> style</div>
+                <div class="Options"><input type="radio" name="3"> script </div>
             </div>
         </div>
-
         <div class="buttons">
-            <p><button id="button1"> Previous</button><span id="nextbtn"><button id="button1">Next</button></span></p>
-            <br>
-            <p><button id="submitbtn">SUBMIT</button></p>
+            <p><button id="button1" onclick="Nex2"> Previous</button><span id="nextbtn"><button id="button1"
+                        onclick="Next3">Next</button></span></p>
+
         </div>
         <div class="Container-Questions">
             <div class="Question-number">
                 <h2>Question 4: The full form of CSS is:?</h2>
             </div>
             <div class="options-container">
-                <div class="Options"><input type="radio" name="1"> CSS is the language used to style the HTML documents
+                <div class="Options"><input type="radio" name="4"> CSS is the language used to style the HTML documents
                 </div>
-                <div class="Options"><input type="radio" name="1"> CSS is designed to separate the presentation and
+                <div class="Options"><input type="radio" name="4"> CSS is designed to separate the presentation and
                     content, including layout, colors, and fonts</div>
-                <div class="Options"><input type="radio" name="1"> All of the mentioned </div>
-                <div class="Options"><input type="radio" name="1" id="correct 3"> CSS is a style sheet language </div>
+                <div class="Options"><input type="radio" name="4"> All of the mentioned </div>
+                <div class="Options"><input type="radio" name="4" id="correct 4"> CSS is a style sheet language </div>
             </div>
         </div>
-
         <div class="buttons">
-            <p><button id="button1"> Previous</button><span id="nextbtn"><button id="button1">Next</button></span></p>
-            <br>
-            <p><button id="submitbtn">SUBMIT</button></p>
+            <p><button id="button1" onclick="Next3"> Previous</button><span id="nextbtn"><button id="button1"
+                        onclick="Next4">Next</button></span></p>
+
         </div>
         <div class="Container-Questions">
             <div class="Question-number">
                 <h2>Question 5:Which organization defines Web standards??</h2>
             </div>
             <div class="options-container">
-                <div class="Options"><input type="radio" name="1">Netflix</div>
-                <div class="Options"><input type="radio" name="1"> IBM Corporation</div>
-                <div class="Options"><input type="radio" name="1" id="correct 3"> World Wide Web Consortium </div>
-                <div class="Options"><input type="radio" name="1"> Apple Inc. </div>
+                <div class="Options"><input type="radio" name="5">Netflix</div>
+                <div class="Options"><input type="radio" name="5"> IBM Corporation</div>
+                <div class="Options"><input type="radio" name="5" id="correct 5"> World Wide Web Consortium </div>
+                <div class="Options"><input type="radio" name="5"> Apple Inc. </div>
             </div>
         </div>
-
         <div class="buttons">
-            <p><button id="button1"> Previous</button><span id="nextbtn"><button id="button1">Next</button></span></p>
-            <br>
-            <p><button id="submitbtn">SUBMIT</button></p>
+            <p class="buttons"><button id="button1" onclick="Next4"> Previous</button><span id="nextbtn"><button
+                        id="button1" onclick="Next5">Next</button></span></p>
+            <input type="Submit" id="submitbtn" Name="Submit" value="SUBMIT" onclick="result()">
+
         </div>
         <div>
             <div class="results">
                 <table>
                     <h3>Your Results</h3>
-                    <tr>
-                        <th>Attempts</th>
-                        <th>Correct</th>
-                        <th>Wrong</th>
-                        <th>Percentage</th>
-
-                    </tr>
-                    <tr>
-                        <td><input type=""></td>
-                        <td><input type=""></td>
-                        <td><input type=""></td>
-                        <td><input type=""></td>
-                    </tr>
                     <p>Your Total Score is</p>
                 </table>
             </div>
 
         </div>
+        <script type="text/javascript">
+            function result() {
+                var score = 0;
+                if (document.getElementById('correct 1').checked) {
+                    score++;
+                }
+                if (document.getElementById('correct 2').checked) {
+                    score++;
+                }
+                if (document.getElementById('correct 3').checked) {
+                    score++;
+                }
+                if (document.getElementById('correct 4').checked) {
+                    score++;
+                }
+                if (document.getElementById('correct 5').checked) {
+                    score++;
+                }
+
+
+                document.write("<h1>Your Result is:" + score * 10 + "%<h1>" +
+                    "<p>Excellent>=80%, Very Good>=70%,Average>=50%, Fail is below 50% <br> Refresh to start again!<p>"
+                );
+            }
+        </script>
+
     </main>
 </body>
 
