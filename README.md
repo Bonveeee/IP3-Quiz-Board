@@ -8,7 +8,7 @@
 
 ## link to FIGMA design
 <link href=" https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>
-       ![figmaquizboard](https://user-images.githubusercontent.com/20439207/168431620-cd694535-0110-4fd6-8314-741dede6a57d.png)
+      
      
 
 ## link to the site on GitHub Pages
