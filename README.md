@@ -8,7 +8,13 @@
 
 ## link to FIGMA design
 <link href=" https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>
+<<<<<<< HEAD
 <img ">
+=======
+      
+     
+
+>>>>>>> b74fb803128e83205876f3897032f10da36d4625
 ## link to the site on GitHub Pages
 
 ## credits
