@@ -26,6 +26,7 @@ retake the quiz if needed<br>
 Html & Css
 Javascript
 Figma for Design
+google fonts
 
 ## Link to FIGMA design
 <link href=" https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>

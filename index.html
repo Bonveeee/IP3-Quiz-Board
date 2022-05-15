@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <main>
+    <main><!-- Main header -->
         <header>
             <div>
                 <div class="h1">
@@ -22,14 +22,14 @@
                 </div>
             </div>
         </header>
-        <div class="Container-Questions">
+        <div class="Container-Questions"><!-- container questions -->
             <div class="Question-number">
                 <h2>Question 1: HTML is considered as?</h2>
             </div>
             <div class="options-container">
                 <div class="Options"><input type="radio" name="1"> Programming language</div>
                 <div class="Options"><input type="radio" name="1"> OOP language</div>
-                <div class="Options"><input type="radio" name="1" id="correct 1"> Markup language </div>
+                <div class="Options"><input type="radio" name="1" id="correct 1"> Markup language </div><!-- correct answer is mared with an id -->
                 <div class="Options"><input type="radio" name="1"> High level language </div>
             </div>
         </div>
@@ -50,7 +50,7 @@
             </div>
         </div>
 
-        <div class="buttons">
+        <div class="buttons"><!-- Next Button-->
             <p><button id="button1" onclick="Next1"> Previous</button><span id="nextbtn"><button id="button1"
                         onclick="Next2">Next</button></span></p>
 
@@ -115,7 +115,7 @@
             </div>
 
         </div>
-        <script type="text/javascript">
+        <script type="text/javascript"> 
             function result() {
                 var score = 0;
                 if (document.getElementById('correct 1').checked) {

@@ -1,3 +1,4 @@
+// function of working result
 function result() {
     var score = 0;
     if (document.getElementById('correct 1').checked) {
@@ -16,7 +17,7 @@ function result() {
         score++;
     }
 
-
+// output of the result
     document.write("<h1>Your Result is:" + score * 10 + "%<h1>" +
         "<p>Excellent>=80%, Very Good>=70%,Average>=50%, Fail is below 50% <br> Refresh to start again!<p>"
     );
