@@ -18,6 +18,10 @@ Do the quiz<br>
 obtain result/feedback instant<br>
 retake the quiz if needed<br>
 
+## Screenshots
+
+
+
 ## Technologies Used
 Html & Css
 Javascript
@@ -25,6 +29,8 @@ Figma for Design
 
 ## Link to FIGMA design
 <link href=" https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>
+
+![login](https://github.com/Bonveeee/IP3-Quiz-Board/blob/master/assets/css/images/figmaquizboard.png?raw=true)
 
 ## Live link to the site on GitHub Pages
 
