@@ -5,7 +5,8 @@
 <p>This is an IP3 project on creating a quiz board web app. <br>Its major objectives is to create a good user story with feedback mechanism to the user using JavaScript. Designed through figma to ease the workability.<p>
 
 ## Program setup instructions
-Clone to thir repo: link>>
+Clone to the repo: link>> https://github.com/Bonveeee/IP3-Quiz-Board.git
+
 ## Requirements
 Access to  a computer or any mobile tech
  Access to internet
@@ -34,6 +35,7 @@ google fonts
 ![login](https://github.com/Bonveeee/IP3-Quiz-Board/blob/master/assets/css/images/figmaquizboard.png?raw=true)
 
 ## Live link to the site on GitHub Pages
+https://bonveeee.github.io/IP3-Quiz-Board/
 
 ## Credits
 figma.com
@@ -41,7 +43,7 @@ github.com
 
 ## Author
 twitter: @bonveeee
-<p>email:bonochieng@gmail.com<p>
+email:bonochieng@gmail.com
 
 ## Copyright and license information
  MIT LICENCE
