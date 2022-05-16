@@ -30,8 +30,7 @@ Figma for Design
 google fonts
 
 ## Link to FIGMA design
-<link href=" https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>
-
+https://www.figma.com/file/hhT2Aq8bWSj5WNrYHUdiKO/QUIZBOARD?node-id=0%3A1>
 ![login](https://github.com/Bonveeee/IP3-Quiz-Board/blob/master/assets/css/images/figmaquizboard.png?raw=true)
 
 ## Live link to the site on GitHub Pages
@@ -43,6 +42,7 @@ github.com
 
 ## Author
 twitter: @bonveeee
+
 email:bonochieng@gmail.com
 
 ## Copyright and license information
