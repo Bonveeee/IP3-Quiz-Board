@@ -1,0 +1,25 @@
+/**/
+
+*{
+    font-family: 'josefin sans' ;
+}
+.results {
+    background-color: whitesmoke;
+    border: 1px solid;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+
+}
+
+h2{
+    color: black;
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+    font-size: large;
+    color: blueviolet;
+}
